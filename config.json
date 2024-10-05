@@ -4,7 +4,7 @@
   "chat_batch_size": "16",
   "chat_ctx_size": "4096",
   "chat_name": "Phi-3-mini-4k-instruct",
-  "description": "The default GaiaNet node config with a Phi-3-mini-4k model and a Paris tour guide knowledge base.",
+  "description": "The default GaiaNet node config with a Meta-Llama-3-8B-Instruct-Q5_K_M model and medical knowledge base.",
   "domain": "us.gaianet.network",
   "embedding": "https://huggingface.co/gaianet/nomic-embed-text-gguf/resolve/main/nomic-embed-text-v1.5.f16.gguf",
   "embedding_batch_size": "512",
